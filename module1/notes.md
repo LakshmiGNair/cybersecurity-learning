@@ -24,7 +24,6 @@
 
 ---
 
-## 📄 Lesson 1:
 ## What is Cyberspace?
 
 - **Cyberspace** refers to anything involving computers and communication networks.

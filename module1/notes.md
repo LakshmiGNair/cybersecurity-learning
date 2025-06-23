@@ -1,7 +1,7 @@
 # 🛡️ Module 1: Introduction to Cybersecurity
 
 ---
-
+## Lesson 1: Introduction
 ## 🌐 What is "Cyber"?
 
 - **Cyber** involves anything related to computers or communication networks.
@@ -114,6 +114,66 @@ BUT... this is hard because of the need to balance:
 - Raises ethical concerns about cyber warfare
 
 ---
+## Lesson 2: What is Computing Technology?
+
+### 💻 What’s a Computer, Really?
+
+- A **computer** is made up of:
+  - A **brain** (processor)
+  - A **memory** (storage)
+  - Interfaces to **interact** with the world (input/output)
+- It **takes input**, **processes it** using programs, and **produces output**.
+- **Cybersecurity** at this level means protecting these core parts:
+  - Preventing **viruses**
+  - Blocking **unauthorized access**
+  - Avoiding **system failures**
+
+---
+
+### 🌐 How Does Communication Happen?
+
+- The **Internet** is like a **huge postal system**.
+- Messages get **broken into small packets**, travel across **various routes**, and are **reassembled at the destination**.
+- All of this happens in **milliseconds**.
+
+---
+
+### 🔗 Networks and Protocols
+
+- A **network** is a group of connected computers.
+- They communicate using **protocols** (rules).
+- The most important protocols:
+  - **IP (Internet Protocol)** – provides an address for each device.
+  - **TCP (Transmission Control Protocol)** – ensures all packets arrive correctly and in order.
+
+---
+
+### 🔒 Cybersecurity & Packets
+
+- **Hackers** can:
+  - Intercept packets
+  - Modify data during travel
+  - Pretend to be someone else (**spoofing**)
+- **Cybersecurity tools** used to protect data:
+  - **Encryption**
+  - **Firewalls**
+
+---
+
+### 🏥 What is an IT System?
+
+- An **IT system** = many **computers, software, networks, and people** working together for a purpose.
+- Examples:
+  - **Hospitals** – patient records
+  - **Airlines** – flight & booking systems
+  - **Governments** – taxes, defense, public services
+
+### 🧩 Components of an IT System include **Hardware**, **Software** **Networks**, **Data**, **People**
+
+---
+
+✅ *This lesson covers the foundation of computing and communication – essential to understanding how cybersecurity fits in!*
+
 
 🚧 *Note: This module is still in progress. More updates will be added soon as I continue learning.* 📝
 

@@ -18,6 +18,7 @@ I’ll update it regularly as I go through the course! ✨
 ## 📁 Repository Structure
 
 `Readme`
+`module1` : It is a work in progress
 
 ```
 💡 Why I Made This Repo

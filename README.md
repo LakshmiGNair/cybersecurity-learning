@@ -17,28 +17,8 @@ I’ll update it regularly as I go through the course! ✨
 
 ## 📁 Repository Structure
 
-```text
-📦 cybersecurity-course/
-│
-├── 📄 README.md                     ← Overview of the course and structure
-│
-├── 📁 Module-1/
-│   └── 📄 README.md                 ← Notes from the first part of the course
-│
-├── 📁 Module-2/
-│   └── 📄 README.md                 ← In progress: ongoing notes and key takeaways
-│
-├── 📁 Module-3/
-│   └── 📄 README.md                 ← To be updated
-│
-├── 📁 Module-4/
-│   └── 📄 README.md                 ← To be updated
-│
-├── 📁 Module-5/
-│   └── 📄 README.md                 ← To be updated
-│
-└── 📁 Module-6/
-    └── 📄 README.md                 ← To be updated
+`Readme`
+
 ```
 💡 Why I Made This Repo
 -To keep track of everything I'm learning 📒

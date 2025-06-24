@@ -171,7 +171,86 @@ BUT... this is hard because of the need to balance:
 
 ---
 
-✅ *This lesson covers the foundation of computing and communication – essential to understanding how cybersecurity fits in!*
+## Lesson 3: Understanding Cyber Threats
+
+---
+
+### Who are the adversaries in cyberspace?
+
+An **adversary** is anyone who wants to cause harm using cyberspace. Common types include:
+
+- **Hackers** – Skilled coders or pranksters.
+- **Cybercriminals** – Motivated by money.
+- **Terrorists** – Aim to create fear, chaos, or destruction.
+- **State Actors** – Countries spying or attacking each other.
+- **Insiders** – Trusted individuals abusing internal access.
+
+---
+
+### Types of Cyber Threats
+
+1. **Cyber Exploitation**
+   - **Goal:** Steal information or spy quietly without being detected.
+   - **Example:** A hacker secretly steals your company's product plans.
+
+2. **Cyber Attack**
+   - **Goal:** Break, damage, or disrupt systems.
+   - **Example:** Crashing hospital systems.
+
+---
+
+### Why IT is Naturally Vulnerable
+
+Even the best systems have weaknesses:
+
+- Poorly written software code.
+- Weak or reused passwords.
+- Unsecured devices (e.g., outdated routers, IoT gadgets).
+- Human errors (e.g., clicking scam/phishing links).
+
+---
+
+### Anatomy of a Cyber Attack
+
+1. **Penetration**
+   - Attacker gains entry (e.g., phishing, weak password).
+   
+2. **Payload or Malware**
+   - Malicious software is installed, such as:
+     - **Virus:** Spreads and destroys files.
+     - **Ransomware:** Locks files and demands payment.
+     - **Spyware:** Watches and records user activity.
+
+3. **Operations**
+   - Attacker steals data, disables systems, or stays hidden waiting to strike.
+
+---
+
+### Common Threats in the Real World
+
+| **Threat Type**         | **What It Does**                                                                 |
+|-------------------------|----------------------------------------------------------------------------------|
+| **Phishing**            | Tricks users into revealing sensitive information (e.g., passwords, OTPs).      |
+| **Denial of Service**   | Floods a server/website to crash or slow it down.                               |
+| **Man-in-the-Middle**   | Eavesdrops or alters communication between two parties.                         |
+| **Zero-Day Exploit**    | Uses a vulnerability that is unknown to developers – no patch exists yet.       |
+| **Botnets**             | A network of infected computers controlled by a hacker to launch bigger attacks.|
+
+---
+
+### How Do We Assess Threats?
+
+Cybersecurity experts evaluate threats by asking:
+
+- **Who** might attack?
+- **Why** would they attack?
+- **What** are they targeting?
+- **How** easy or hard is it to defend?
+
+---
+
+
+
 
 
 🚧 *Note: This module is still in progress. More updates will be added soon as I continue learning.* 📝

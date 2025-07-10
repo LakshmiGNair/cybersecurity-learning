@@ -249,7 +249,6 @@ Cybersecurity experts evaluate threats by asking:
 
 ---
 
-# 🛡️ Cybersecurity Notes
 
 ## 📘 LESSON 4: How to improve cybersecurity
 

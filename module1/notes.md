@@ -249,8 +249,62 @@ Cybersecurity experts evaluate threats by asking:
 
 ---
 
+# 🛡️ Cybersecurity Notes
 
+## 📘 LESSON 4: How to improve cybersecurity
 
+### 🔧 Technical ways to improve cybersecurity
+
+1. **Reduce dependency on IT**  
+   → Not everything needs to be online  
+   → Eg. Use physical backups or manual controls for critical systems (like hospital equipment).  
+
+2. **Know when you've been hacked**  
+   → Many don't even realize they're compromised  
+   → Solution: Intrusion detection systems (IDS) alert you when something suspicious happens  
+
+3. **Defend the system**  
+   → Use firewalls, anti-malware, regular updates, and network segmentation  
+   → Just like locking every room in your house instead of only the front door  
+
+4. **Ensure accountability**  
+   → Keep logs to trace who did what and when  
+   → If users know actions are tracked, they behave better  
+
+5. **Be Resilient: Contain and Recover**  
+   → Prepare for the worst, restore backups, disaster recovery for your data and software  
+   → Like having a fire drill for your data  
+
+6. **Use 'attack back'**  
+   → Eg. Honeypots (lure hackers into fake systems)  
+   → Some even strike back, but this is legally risky and controversial  
+
+---
+
+### 🌐 Non-Technical Dimensions of Cybersecurity
+
+1. **Economics**  
+   → Some don't secure because security is expensive  
+   → Eg. A company may not invest in protection while a breach costs them more  
+
+2. **Psychology**  
+   → Many attacks succeed because users are tricked  
+   → Eg. Click on a fake prize email  
+   → Training users and simplifying security can prevent many attacks  
+
+3. **Law**  
+   → Cyber law help punish criminals and set groundrules  
+   → But laws struggle to keep up with new tech and international issues  
+
+4. **Organizational structures**  
+   → Some companies have no clear responsibility for cybersecurity  
+   → Security must be part of the culture, not just an afterthought  
+
+5. **Deterrence**  
+   → Make it costly and risky to attack you  
+   → Warning, alert, that might face prosecution if caught  
+
+---
 
 
 🚧 *Note: This module is still in progress. More updates will be added soon as I continue learning.* 📝

@@ -304,6 +304,31 @@ Cybersecurity experts evaluate threats by asking:
    → Warning, alert, that might face prosecution if caught  
 
 ---
+## How do we measure cybersecurity
+
+→ Use risk assessment: What are the most likely threats?  
+→ Set security benchmarks: Are all systems updated and protected?  
+→ Track response time: How fast can you detect and contain an incident?
+
+## Why we need research
+
+Because  
+→ Attackers are getting smarter.  
+→ Tech is getting more complex  
+   → We need new tools, but also better human behavior models, economic strategies, and laws.
+
+## Security ≠ Trust technology
+
+Even the best tools can fail if:  
+→ People use “password123”  
+→ Companies ignore warnings  
+→ Or no one knows what to do in an emergency.
+
+**That's why cybersecurity must be holistic – a mix of:**
+- Tech tools
+- Smart policy
+- Trained people
+- And constant improvement
 
 
 🚧 *Note: This module is still in progress. More updates will be added soon as I continue learning.* 📝

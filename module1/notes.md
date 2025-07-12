@@ -399,25 +399,43 @@ Still, many companies **don’t improve security unless they experience a loss t
 ## 🌍 International Tensions and Cybersecurity
 
 ### Who runs the internet?  
-→ The internet is global, but rules are made locally  
-→ Nations fight over who controls domain names, data flow, and online speech
+- The internet is global, but rules are made locally  
+- Nations fight over who controls domain names, data flow, and online speech
 
 ---
 
 ### 👁️ Cybersecurity vs Surveillance
 
-→ Some countries use cybersecurity as an excuse to spy on citizens or rivals.  
-→ This erodes trust – both between governments and with the public.
+- Some countries use cybersecurity as an excuse to spy on citizens or rivals.  
+- This erodes trust – both between governments and with the public.
 
 ---
 
 ### 🌐 Global Rules for Good Behaviour
 
-→ Should cyberattacks be treated like war?  
-→ What are the “unwritten rules” – like not attacking hospitals or voting systems?
+- Should cyberattacks be treated like war?  
+- What are the “unwritten rules” – like not attacking hospitals or voting systems?
 
 ---
 
+## 🌐 Global Tech Supply Chains
+
+- Your phone may be made from parts from 12 countries  
+- Can we trust hardware/software made by a geopolitical rival?
+
+---
+
+## 🛡️ Offensive Cyber Tools
+
+- Govts have cyber weapons – but there’s no global agreement on when to use them  
+- Should countries hack back? When? How much?
+
+---
+
+We can’t have total privacy, total surveillance-based security, unrestricted freedom and perfect control all at once.
+
+So, public policy has to weigh trade-offs.  
+And those choices should be made transparently, democratically and with respect for human rights.
 
 
 

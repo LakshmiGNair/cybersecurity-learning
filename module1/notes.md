@@ -366,5 +366,36 @@ Cyberattacks can:
 
 Still, many companies **don’t improve security unless they experience a loss themselves.**
 
+---
+
+### 💡 Cybersecurity vs Innovation
+
+- Startups want to launch fast, not spend months on security.  
+- But insecure apps = easy targets.  
+- Stricter regulations can slow innovation, yet no rules = chaos.
+
+**Balance is needed:** encourage innovation with basic security standards.
+
+---
+
+### 🛡️ Cybersecurity vs Civil Liberties
+
+#### 1. Privacy  
+- Strong cybersecurity can protect privacy  
+- But surveillance in the name of security can invade it.  
+- Govts may track, listen, or read your messages to "catch threats".
+
+#### 2. Free expression  
+- People may self-censor online if they know they’re being watched  
+- Activists and journalists are specially vulnerable.
+
+
+
+
+
+
+
+
+
 🚧 *Note: This module is still in progress. More updates will be added soon as I continue learning.* 📝
 

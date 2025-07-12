@@ -332,5 +332,37 @@ Even the best tools can fail if:
 
 ---
 
+
+### 📚 LESSON 5: The tension between cybersecurity and other public goals
+
+Cybersecurity is essential – but it often clashes with other things in society like:
+
+- Privacy  
+- Civil rights  
+- Innovation  
+- International trust
+
+---
+
+### ⚖️ Cybersecurity vs Economics
+
+Using economics to improve cybersecurity:
+
+- If hacking costs more than the reward, it discourages attackers  
+- Insurance, fines and incentives can push companies to secure better  
+- But often, security feels like a cost, not a benefit – so it’s neglected
+
+---
+
+### 💣 Cost of cyber attacks
+
+Cyberattacks can:
+
+- Crash stock markets  
+- Halt hospitals  
+- Leak confidential business data
+
+Still, many companies **don’t improve security unless they experience a loss themselves.**
+
 🚧 *Note: This module is still in progress. More updates will be added soon as I continue learning.* 📝
 

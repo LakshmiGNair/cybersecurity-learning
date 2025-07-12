@@ -389,8 +389,34 @@ Still, many companies **don’t improve security unless they experience a loss t
 - People may self-censor online if they know they’re being watched  
 - Activists and journalists are specially vulnerable.
 
+#### 3. Due Process
 
+- In some systems, people’s accounts are shut down or flagged without proof or a way to appeal.  
+- Security shouldn’t mean “guilty until proven innocent”.
 
+---
+
+## 🌍 International Tensions and Cybersecurity
+
+### Who runs the internet?  
+→ The internet is global, but rules are made locally  
+→ Nations fight over who controls domain names, data flow, and online speech
+
+---
+
+## 👁️ Cybersecurity vs Surveillance
+
+→ Some countries use cybersecurity as an excuse to spy on citizens or rivals.  
+→ This erodes trust – both between governments and with the public.
+
+---
+
+## 🌐 Global Rules for Good Behaviour
+
+→ Should cyberattacks be treated like war?  
+→ What are the “unwritten rules” – like not attacking hospitals or voting systems?
+
+---
 
 
 

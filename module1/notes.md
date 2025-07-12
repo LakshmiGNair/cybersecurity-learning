@@ -333,7 +333,9 @@ Even the best tools can fail if:
 ---
 
 
-### 📚 LESSON 5: The tension between cybersecurity and other public goals
+## 📚 LESSON 5: The tension between cybersecurity and other public goals
+
+---
 
 Cybersecurity is essential – but it often clashes with other things in society like:
 

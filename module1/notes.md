@@ -418,14 +418,14 @@ Still, many companies **don’t improve security unless they experience a loss t
 
 ---
 
-## 🌐 Global Tech Supply Chains
+### 🌐 Global Tech Supply Chains
 
 - Your phone may be made from parts from 12 countries  
 - Can we trust hardware/software made by a geopolitical rival?
 
 ---
 
-## 🛡️ Offensive Cyber Tools
+### 🛡️ Offensive Cyber Tools
 
 - Govts have cyber weapons – but there’s no global agreement on when to use them  
 - Should countries hack back? When? How much?

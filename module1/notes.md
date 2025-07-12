@@ -404,14 +404,14 @@ Still, many companies **don’t improve security unless they experience a loss t
 
 ---
 
-## 👁️ Cybersecurity vs Surveillance
+### 👁️ Cybersecurity vs Surveillance
 
 → Some countries use cybersecurity as an excuse to spy on citizens or rivals.  
 → This erodes trust – both between governments and with the public.
 
 ---
 
-## 🌐 Global Rules for Good Behaviour
+### 🌐 Global Rules for Good Behaviour
 
 → Should cyberattacks be treated like war?  
 → What are the “unwritten rules” – like not attacking hospitals or voting systems?

@@ -437,6 +437,87 @@ We can’t have total privacy, total surveillance-based security, unrestricted f
 So, public policy has to weigh trade-offs.  
 And those choices should be made transparently, democratically and with respect for human rights.
 
+---
+
+# Understanding the Threat Landscape in Cybersecurity
+
+The threat landscape is the full picture of who is attacking, how they’re doing it, why they’re doing it, and what is being attacked.
+
+---
+
+## Breaking Down the Threat Landscape
+
+### 1. The Internet - The Playing Field
+
+The internet isn’t just websites. It includes:
+
+- **Devices**: phones, laptops, sensors  
+- **Physical infrastructure**: fibre optic cables, routers, switches  
+- **Logical structure**: how data is routed from place to place  
+- **Applications**: the apps and programs we use  
+- **Governance**: who makes the rules - is it govts or private companies
+
+---
+
+### 2. Hackers (Threat Actors)
+
+| Type of Hacker | Motivation                                |
+|----------------|--------------------------------------------|
+| Hobbyist       | Just curious, want to explore              |
+| Hacktivists    | Promote political or social cause          |
+| Criminals      | Want money, steal data, sell it            |
+| Nation-State   | Conduct spying, sabotage, warfare          |
+
+---
+
+### 3. Tactics, Techniques, and Procedures (TTPs)
+
+- **Phishing** – Fake emails to trick you into clicking a bad link  
+- **Ransomware** – Your files get locked and hackers demand money  
+- **DDoS (Distributed denial)** – Flooding a website or server so it crashes  
+- **Privilege escalation** – Gaining admin access to systems  
+- **Malware-less Attacks** – Attacks without installing programs, using scripts like PowerShell  
+- **ICS Attacks** – Hacking critical infrastructure (like power/water systems)
+
+---
+
+### 4. Effects Hackers Want to Achieve
+
+- Steal information  
+- Control systems  
+- Deface websites  
+- Demand Payment
+
+---
+
+### 5. The Attack Surface
+
+This is the combination of everything that can be attacked – hardware, software, people, organizations.
+
+---
+
+###  Why Is It So Hard to Defend?
+
+- Your personal devices connect with work devices  
+- Companies use global services  
+- Laws vary by state and country
+
+---
+
+### 7. Attribution (Who Did It?)
+
+Finding who did it is extremely difficult but very necessary.
+
+---
+
+## Challenges for Policymakers
+
+Government leaders have to figure out:
+
+- Is the electrical grid more important than entertainment?  
+- Should hobbyists be punished the same as nation-states?  
+- Should vulnerabilities be kept secret or disclosed to the public?  
+- Should companies be forced to check who their vendors are?
 
 
 
